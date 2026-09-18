@@ -1,0 +1,10 @@
+Row-Column Game configuration
+SIZE must be provided. MODE can be H_VS_H, H_VS_C, or C_VS_C
+A_STRATEGY/B_STRATEGY are names from strategies.py when the player is a computer
+
+SIZE=3
+MODE=H_VS_C
+START_PLAYER=B
+BOARD_SOURCE=RANDOM
+HUMAN_PLAYER=B
+A_STRATEGY=Greedy

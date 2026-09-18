@@ -1,0 +1,15 @@
+# Row-Column Game (RC-Game) Requirements
+# Python 3.7 or higher is required
+# 
+# This project uses only Python's standard library.
+# No external packages need to be installed.
+#
+# Standard library modules used:
+# - os (file operations, system commands)
+# - sys (system-specific parameters, platform detection)
+# - random (random number generation)
+# - typing (type hints)
+
+# If you need to verify your Python version, run:
+# python --version
+
