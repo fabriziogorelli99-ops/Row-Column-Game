@@ -60,7 +60,7 @@ The complete project was developed collaboratively by a six-member team. All con
 Clone the repository and move into the project directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/fabriziogorelli99-ops/Row-Column-Game.git
 cd row-column-game
 ```
 
